@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @snowchest67
 - 👀 I’m interested in programming. I am studying programming in college and I hope that in the future I will be an excellent programmer.
-- 🌱 I’m currently learning C# and Java now
+- 🌱 I’m currently learning Go and C# now
 - 😄 Pronouns: He/Him
 
 
